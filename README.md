@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Systems Design
-- 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for help with fine-tuning models
-- 💬 Ask me about Life
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning nothing
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about nothing
 - 📫 How to reach me: akshayrahul97@gmail.com 
 - 😄 Pronouns: He/Him
 -->
