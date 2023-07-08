@@ -24,6 +24,11 @@
 </div>
 
 
+### 📪 Break the visit counter by hitting refresh
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/akshayrahul">
+    <img src="https://profile-counter.glitch.me/additanwar/count.svg" />
+</div>
+
 <!--
 **akshayrahul/akshayrahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
