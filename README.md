@@ -26,7 +26,7 @@
 
 ### 📪 Break the visit counter by hitting refresh
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/akshayrahul">
-    <img src="https://profile-counter.glitch.me/additanwar/count.svg" />
+    <img src="https://profile-counter.glitch.me/akshayrahul/count.svg" />
 </div>
 
 <!--
