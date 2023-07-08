@@ -4,7 +4,7 @@
 - 🧑‍🎓 Recently graduated with a Masters in Business Analytics from Carlson School of Management, University of Minnesota
 - ⚡ Passionate about generating insights from data and present the analysis in a simple manner
 - 💬 Ask me about sports, decision trees or the latest tech
-- 📫 How to reach me: akshayrahulk@gmail.com or connect with me on <a>https://www.linkedin.com/in/akshay-rahul/</a>
+- 📫 How to reach me: akshayrahulk@gmail.com or connect with me on <a src = "https://www.linkedin.com/in/akshay-rahul/">LinkedIn</a>
 - 😄 Pronouns: He/Him
 
 
